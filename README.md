@@ -1,5 +1,5 @@
 pa4.py - 
-  * This assignment was completed for a "Python Programming for Linguistics" course I took at UCSB as an opportunity to get
+  * This assignment was completed for a "Python Programming for Linguistics" course I took as an opportunity to get
     more experience with Python and consists of 3 tasks: Word Counting across files, Flesch scoring sentences in a file, and
     N-gram extraction by UPOS.
   * To complete these tasks a lot of focus was placed on functional decomposition and detailed documentation to keep track
