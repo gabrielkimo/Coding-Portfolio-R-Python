@@ -5,7 +5,7 @@ pa4.py -
   * To complete these tasks a lot of focus was placed on functional decomposition and detailed documentation to keep track
     of the linguistic processing, keeping my lack of familiarity with linguistics from getting in the way of the actual
     functionality of the code.
-  * Skills used include reading/writing files, sorting lists using custom criteria, and manipulation of data types.
+  * Skills used include reading/writing files, sorting using custom criteria, and manipulation of data types.
 
 mtcarapp.R - 
   * This is a project in which I designed an app in R that would take the mtcars dataset from 
